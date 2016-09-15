@@ -154,6 +154,10 @@
          <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
              <string>Nous utilisons la caméra afin de vous permettre d'enregistrer une photo de profil, scanner des codes barres et nous envoyer des jusitificatifs d'identité en cas de besoin.</string>
          </config-file>
+         
+         <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
+             <string>Nous utilisons votre librairie de photos afin de vous permettre de choisir et changer votre photo de profil.</string>
+         </config-file>
 
          <config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
              <string></string>

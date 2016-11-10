@@ -152,7 +152,7 @@
 
          <preference name="CAMERA_USAGE_DESCRIPTION" default=" " />
          <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-             <string>Nous utilisons la caméra afin de vous permettre d'enregistrer une photo de profil, scanner des codes barres et nous envoyer des jusitificatifs d'identité en cas de besoin.</string>
+             <string>Nous utilisons la caméra afin de vous permettre d'enregistrer une photo de profil, scanner des codes barres et nous envoyer des justificatifs d'identité en cas de besoin.</string>
          </config-file>
          
          <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
